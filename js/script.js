@@ -1,6 +1,7 @@
 "use strict";
 
-//const result = confirm(`are u here?`);
+const result = confirm(`are u here?`);
+
 //console.log(result);
 
 //const answer = +prompt(`Вам есть 18?`, `18`);
